@@ -1,0 +1,24 @@
+header {
+    /* debug */
+    /* background-color: red;
+    height: 100px; */
+}
+
+header img {
+    width: 50px;
+}
+
+main {
+    margin-top: 50px;
+}
+
+
+/* lista libri */
+.first-section {
+    display: flex;
+    justify-content: center;
+}
+
+.first-section table {
+    width: 90%;
+}
