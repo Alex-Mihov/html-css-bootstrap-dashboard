@@ -13,12 +13,22 @@ main {
 }
 
 
-/* lista libri */
-.first-section {
-    display: flex;
-    justify-content: center;
+/* parte to do  */
+.todo-title {
+    padding: 10px;
+    padding-left: 20px;
+    background-color: #f7f7f7;
+    border-bottom: 2px solid lightgrey;
 }
 
-.first-section table {
-    width: 90%;
+.todo-list {
+    margin: 20px;
+}
+
+/* parte faq */
+.faq-title {
+    padding: 10px;
+    padding-left: 20px;
+    background-color: #f7f7f7;
+    border-bottom: 2px solid lightgrey;
 }
